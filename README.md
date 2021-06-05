@@ -17,6 +17,8 @@ The deaf-mute community have undeniable communication problems in their daily li
   
  <img src="Figures/Real_time_images_FIGURE 4/Screenshot 2021-04-05 at 10.44.55 PM_auto_x2.png" width="400"/> <img src="Figures/Real_time_images_FIGURE 4/Screenshot 2021-04-05 at 10.46.01 PM_auto_x2.png" width="400"/>
   
+### 
+  
   
   
   
