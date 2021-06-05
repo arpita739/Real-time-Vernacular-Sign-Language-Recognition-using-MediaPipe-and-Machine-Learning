@@ -17,7 +17,13 @@ The deaf-mute community have undeniable communication problems in their daily li
   
  <img src="Figures/Real_time_images_FIGURE 4/Screenshot 2021-04-05 at 10.44.55 PM_auto_x2.png" width="400"/> <img src="Figures/Real_time_images_FIGURE 4/Screenshot 2021-04-05 at 10.46.01 PM_auto_x2.png" width="400"/>
   
-### 
+### Pre-processing of Images using MediaPipe
+  <ul>
+  <li>Use <code>!pip install mediapipe</code> to install Mediapipe in your Windows/Mac OS.</li>
+  <li>Use <code>EXTRACT_DATA.py</code> to Pre-Proprocess dataset. </li>
+  <li>Build your own <strong> Machine Learning </strong> Model. Also, you can have a look at <a href="https://github.com/arpita739/Real-time-Vernacular-Sign-Language-Recognition-using-MediaPipe-and-Machine-Learning/tree/master/Detection"/> Detection </a> folder for checking my Machine Learning Models for different datasets.</li>
+  
+  </ul>
   
   
   
