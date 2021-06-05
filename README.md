@@ -27,7 +27,12 @@ The deaf-mute community have undeniable communication problems in their daily li
   <li>Use <code>hand_detection_webcam.py</code> to test your model in real-time environment using Mediapipe Technology</li>
   </ul>
   
-
+### Research Article
+<object data="IJRPR462.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="IJRPR462.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="IJRPR462.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
   
   
   
