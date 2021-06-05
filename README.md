@@ -28,9 +28,9 @@ The deaf-mute community have undeniable communication problems in their daily li
   </ul>
   
 ### Research Article
-<object data="IJRPR462.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="IJRPR462.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="IJRPR462.pdf">Download PDF</a>.</p>
+<object data="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf​" type="application/pdf" width="700px" height="700px">
+    <embed src="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf​">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf">Download PDF</a>.</p>
     </embed>
 </object>
   
